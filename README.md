@@ -2,7 +2,10 @@
 
 
 # Google ColabでPhi-2を動かす
-Microsoftから公開されているSLM（Small Language Model）であるPhi-2をGoogle Colab(無料版)で動かすことができます．
+- Microsoftから公開されているSLM（Small Language Model）であるPhi-2をGoogle Colab(無料版)で動かすことができます．
+- 翻訳機能を組み込んでいるため，日本語で入出力を確認できます．
+  - 日本語プロンプトは英訳され，Phi-2の英語出力を日本語訳して表示します．
+  - 翻訳後のプロンプト，翻訳前の出力も確認できます．
 
 使用モデル：microsoft/phi-2
 - https://huggingface.co/microsoft/phi-2
