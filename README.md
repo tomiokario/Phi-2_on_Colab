@@ -1,6 +1,8 @@
-# Google ColabでPhi-2を動かすノートブック
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tomiokario/Phi-2_on_free_version_of_Google_Colab/blob/main/Phi_2_on_free_version_of_Google_Colab.ipynb)
 
-Microsoft社から発表されたSLM（Small Language Model）のPhi-2をGoogle Colab(無料版)で動かすことができます．
+
+# Google ColabでPhi-2を動かす
+Microsoftから公開されているSLM（Small Language Model）であるPhi-2をGoogle Colab(無料版)で動かすことができます．
 
 使用モデル：microsoft/phi-2
 - https://huggingface.co/microsoft/phi-2
